@@ -1,0 +1,7 @@
+,filed,tblid,seq,order,position,cells,total,title,subject_area
+0,ACSSF,B00001,0001,,7.0,1 CELL,,UNWEIGHTED SAMPLE COUNT OF THE POPULATION,Unweighted Count
+1,ACSSF,B00001,0001,,,,,Universe:  Total population,
+2,ACSSF,B00001,0001,1.0,,,,Total,
+3,ACSSF,B00002,0001,,8.0,1 CELL,2.0,UNWEIGHTED SAMPLE HOUSING UNITS,Unweighted Count
+4,ACSSF,B00002,0001,,,,,Universe:  Housing units,
+5,ACSSF,B00002,0001,1.0,,,,Total,
