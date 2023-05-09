@@ -1,6 +1,6 @@
 # Capstone Project: Do Parks Gentrify Our Neighborhoods?
 
-[Dashboard]([https://pages.github.com/](https://public.tableau.com/views/FINAL_16830688856490/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
+[Link to Dashboard](https://public.tableau.com/views/FINAL_16830688856490/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Summary
 This capstone project explores the relationship between parks and gentrification. It focuses on the following research questions:
